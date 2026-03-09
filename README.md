@@ -16,4 +16,4 @@ Holasa a qui reunire mis proyectos para que les sea mas facil entrar a ellos
 
 1. **Clonar el repositorio:**
    ```bash
-   https://kevinreyes-garcia-rgb.github.io/Mis-Paginas-V3/
+   https://kevinreyes-garcia-rgb.github.io/Mis-Paginas-V2/
